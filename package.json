@@ -12,7 +12,11 @@
   "license": "ISC",
   "devDependencies": {
     "@remix-run/dev": "^2.15.2",
-    "@remix-run/serve": "^2.15.2",
     "vite": "^6.0.7"
+  },
+  "dependencies": {
+    "@remix-run/express": "^2.15.2",
+    "cross-env": "^7.0.3",
+    "express": "^4.21.2"
   }
 }
