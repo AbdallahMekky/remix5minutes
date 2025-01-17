@@ -11,6 +11,9 @@ importers:
       '@remix-run/express':
         specifier: ^2.15.2
         version: 2.15.2(express@4.21.2)
+      '@remix-run/node':
+        specifier: ^2.15.2
+        version: 2.15.2
       cross-env:
         specifier: ^7.0.3
         version: 7.0.3
