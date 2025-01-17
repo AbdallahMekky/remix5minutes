@@ -19,6 +19,7 @@
     "@remix-run/express": "^2.15.2",
     "@remix-run/node": "^2.15.2",
     "cross-env": "^7.0.3",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "isbot": "^4"
   }
 }
